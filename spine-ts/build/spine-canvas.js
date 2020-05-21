@@ -8436,3 +8436,4 @@ var spine;
 	})(canvas = spine.canvas || (spine.canvas = {}));
 })(spine || (spine = {}));
 //# sourceMappingURL=spine-canvas.js.map
+export default spine;
